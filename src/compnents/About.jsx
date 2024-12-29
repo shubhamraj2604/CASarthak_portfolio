@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div
-      id="AboutMe"
+      id="About Me"
       className="w-full  max-h md:h-screen bg-gradient-to-b from-gray-800 to-black text-white scroll-mt-20"
     >
       <div className="max-w-screen-lg flex flex-col p-4 mx-auto justify-center w-full h-full">
