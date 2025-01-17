@@ -4,11 +4,11 @@ const achievements = () => {
     const achievements=[
         {
             id: 1,
-            title: "Academic Acheivements",
+            title: "Professional Recognition",
             description:[
-                "  Honoured with BRAGANZA AWARD for Best All-Rounder in ISC 19-20 ",
-                "Honoured with PRINCIPALS AWARD for 3rd Highest Marks in ISC COMMERCE 19-20 ",
-                "Honoured with AWARD for securing perfect score in MATHEMATICS and COMMERCE in 12th standard "
+                "Received Kudos and Emerging Extraordinaire in SRBA for outstanding client communication and dedication",
+                "Earned Gold Standard feedback from Director and senior leaders for exceptional commitment ",
+                "Recognized by client’s CFO for leveraging Alteryx and Power BI to deliver actionable and impactful insights"
             ],
 
         },
@@ -16,8 +16,8 @@ const achievements = () => {
             id: 2,
             title: "Certifications",
             description: [
-                "Attended 100+ Hours of Information Technology training and Management training organized by ICAI ",
-                "Completed Virtual Internship on  Consulting by BCG via Forage",
+                "Attended 200+ Hours of Information Technology training and Management training organized by ICAI ",
+                "Enhanced skills in data analytics tools PowerBI and Alteryx by completing Udemy course",
                 "Completed over five Courses covering 50+ hours of learning on Udemy on PowerBI "
             ]
 
@@ -26,11 +26,10 @@ const achievements = () => {
             id: 3,
             title: "Other Achievements",
             description: [
-             "Secured Kudos Award and Extraordinnare Award in EY for client commitment and work ethics ",
-             "Won regional competition for event “Extempore” and represented Gurguram Branch and Nationals",
-             "Mentored over 25+ Students appearing for CA Intermediate Exams through Vision CA ",
-             "Created a whatsapp community of 300+ Members sharing Financial News named “Finworm” ",
-             "Secured 2nd Best presenter award during GMCS Training for my presentation on topic “Emergence of China” "
+             "Won regional competition for event “Extempore” and represented Gurugram Branch at Nationals",
+             "Honored with awards for Best All-Rounder and 3rd Highest Scorer in School ",
+             " Contributed articles to CA newsletter and “Finworm”, a financial newsletter community of 300+ members ",
+              "Secured 2nd best presenter award during GMCS Training among 40+ students conducted by ICAI  ",
             ]
         }
         

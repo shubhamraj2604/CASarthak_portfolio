@@ -43,7 +43,7 @@ const Social = () => {
           <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "Sarthak_Modi_CV.pdf",
       style: "rounded-br-md",
       download: true,
     },

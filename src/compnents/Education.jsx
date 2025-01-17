@@ -7,7 +7,7 @@ const Education = () => {
       year: "Nov 2024",
       degree: "CA Final",
       board: "Institute of Chartered Accountants of India",
-      percentage: "70.00 % -(AIR-53)",
+      percentage: "70.00 % ",
       remarks: "Exemption in all subjects"
     },
     {
@@ -29,7 +29,7 @@ const Education = () => {
     {
       id: 4,
       year: "Dec 2023",
-      degree: "BCOM A&F",
+      degree: "B.com A&F",
       board: "IGNOU, Open Learning",
       percentage: "70.83 %",
       remarks: "First Division"

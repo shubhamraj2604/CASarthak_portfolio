@@ -7,17 +7,34 @@ const Work = () => {
       firm: "Articleship firm – S.R. Batliboi and Associates LLP (Member firm of EY Group)",
       position: "Intern-Statutory Audit TMT",
       duration: "April 2022 – Present",
-      description: [
-        { id: 101, value: "Identified an error in an accounting estimate of provisions with the help of the Data Analytics tool Alteryx, having a financial impact of INR 12 Mn." },
-        { id: 102, value: "Automated verification of IND AS 116 through Alteryx, covering 5 clients and 250+ leases." },
-        { id: 103, value: "Identified operational delays in cash collection for 3 specific branches out of 150+ branches using Power BI." },
-        { id: 104, value: "Assisted, coordinated, and executed various assignments as part of a team for clients like PVR Ltd , PhysicsWallah Limited, Shriram Automall India Limited, Orix, Micromax, Park+ and Pickr." }
-      ]
+      description: 
+        [
+          {
+            id: 1,
+            value: "Led audit procedures for key financial areas, including revenue, leases, and ESOPs, over multiple quarters for major companies with turnovers up to INR 35,000 Mn, and executed audits for fixed assets and financial controls."
+          },
+          {
+            id: 2,
+            value: "Automated IND AS 116 audit procedures using Alteryx for multiple clients, improving efficiency for financial impacts exceeding INR 25,000 Mn; leveraged Power BI to analyze cash collections across 120+ branches, mitigating risks."
+          },
+          {
+            id: 3,
+            value: "Conducted profitability and revenue benchmarking against industry standards, identifying growth opportunities for companies with turnovers up to INR 15,000 Mn."
+          },
+          {
+            id: 4,
+            value: "Identified and rectified accounting errors in revenue and inventory, ensuring accurate financial reporting; avoided inappropriate disclosures by analyzing omitted related-party transactions."
+          },
+          {
+            id: 5,
+            value: "Assisted in assignments for high-profile clients like PVR Ltd., PhysicsWallah, Shriram Automall, Orix, Micromax, and others, contributing to the accurate preparation of cash flow and fund flow statements for startups."
+          }
+        ]        
     }
   ];
 
   return (
-    <div id="WorkExperience" className="w-full  md:h-screen bg-gradient-to-b from-gray-800 to-black text-white py-8 ">
+    <div id="WorkExperience" className="w-full max-h-max  bg-gradient-to-b from-gray-800 to-black text-white py-20 md:py-8 ">
       <div className="max-w-screen-lg flex flex-col p-4 mx-auto justify-center w-full h-screen ">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-yellow-500">Work Experience</p>

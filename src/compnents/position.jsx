@@ -7,7 +7,7 @@ const Position = () => {
       position: "Logistics head Phenomenon",
       year: 2019,
       description:
-        "Spearheaded Bangalore’s biggest student organized cultural festival, managing 20 food stalls and 30 game stalls for the event with 15,000+ footfall in 2019 ",
+        "Spearheaded Bangalore's largest student-organized cultural festival, managing 20 food stalls, 30 game stalls and coordinating an event with 15,000+ attendees, which featuring international artist Nucleya ",
     },
     {
       id: 2,
@@ -18,10 +18,10 @@ const Position = () => {
     },
     {
       id: 3,
-      position: "Event Head – Bifrost'(Commerce fest)-2019 - Human Resources",
-      year: 2019,
+      position: " Organizer- JGPL",
+      year: 2014 + "-" +2019,
       description:
-        "Ideated, executed & successfully implemented Human Resources event with all its combinations of public speaking, crisis management & organization structure",
+        "Independently organized annual U-21 cricket tournament for 5 consecutive years, managing a budget of INR 1.5 Mn and attracting 100+ participants each year ",
     },
     {
       id: 4,
