@@ -35,7 +35,7 @@ const Position = () => {
   return (
     <div
       name="position"
-      className="w-full max-h bg-gradient-to-b from-black to-gray-800 text-white py-8"
+      className="w-full max-h bg-gradient-to-b from-black to-gray-800 text-white py-20 md:py-8"
     >
       <div className="max-w-screen-lg mx-auto p-4">
         <div className="mb-8">

@@ -55,7 +55,7 @@ const Education = () => {
   return (
     <div
       id="Education"
-      className="w-full max-h bg-gradient-to-b from-black to-gray-800 text-white py-8 scroll-mt-20"
+      className="w-full max-h-max  bg-gradient-to-b from-black to-gray-800 text-white py-28 md:py-8 scroll-mt-20"
     >
       <div className="max-w-screen-lg mx-auto p-4">
         <div className="mb-8">
